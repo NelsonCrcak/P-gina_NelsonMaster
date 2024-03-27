@@ -1,0 +1,27 @@
+table {
+	border: 3px;
+	text-align: center;
+	width: 100%;
+}
+
+.UANL-FIME {
+	width: 150px;
+	height: 150px;
+}
+
+.Blanco {
+	background: white;
+}
+
+.Verde {
+	background: #00ff00;
+}
+
+body {
+	background: blue;
+	font-size: 30px;
+}
+
+.Izquierda {
+	text-align: left;
+}
